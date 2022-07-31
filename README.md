@@ -1,6 +1,6 @@
 # Small weather app
 
-Built with ReactJs
+Built with ReactJs <br/ >
 Api: [openweatherapp](https://openweathermap.org/)
 
 Steps: 
